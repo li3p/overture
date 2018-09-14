@@ -42,4 +42,4 @@ vendor/
 overture-*
 *.log
 
-apple.china.conf
+config.dev.json
